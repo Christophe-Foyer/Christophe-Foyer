@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div>
+<div style:"span">
   <div style=" style="display:inline-block; float: left;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Christophe-Foyer&show_icons=true&count_private=true&hide_rank=true" />

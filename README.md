@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌎 [website](https://www.cfoyer.com/) </br>
+👥 [linkedin](https://linkedin.cfoyer.com/) </br>
+🛠 [curated projects](https://github.cfoyer.com/) </br>
+
 
 <div style:"span">
   <div style=" style="display:inline-block; float: left;">

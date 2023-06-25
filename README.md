@@ -2,7 +2,7 @@
 
 🌎 [website](https://www.cfoyer.com/) </br>
 👥 [linkedin](https://linkedin.cfoyer.com/) </br>
-🛠 [projects](https://portfolio.cfoyer.com/) </br>
+<!--🛠 [projects](https://portfolio.cfoyer.com/) </br>-->
 
 
 <div style:"span">
